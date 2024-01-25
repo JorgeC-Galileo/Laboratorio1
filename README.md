@@ -4,7 +4,7 @@
 2. [Citra](https://github.com/citra-emu/citra)
 3. [Godot Engine](https://github.com/godotengine/godot)
 
-## Exercise Links:
+## Exercises Links:
 
 - [CodePen Exercise](https://codepen.io/Jorge-Daniel-Cuevas-Mejia/pen/NWJaREY)
 - [Forked Project](link-to-your-forked-project)
