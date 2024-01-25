@@ -7,5 +7,5 @@
 ## Exercises Links:
 
 - [CodePen Exercise](https://codepen.io/Jorge-Daniel-Cuevas-Mejia/pen/NWJaREY)
-- [Forked Project](link-to-your-forked-project)
+- [Forked Project](https://github.com/JorgeDCM/Laboratorio1.git)
 
