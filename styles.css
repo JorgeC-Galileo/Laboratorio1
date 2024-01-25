@@ -1,0 +1,37 @@
+.container {
+  height: 470px;
+  width: 350px;
+  perspective: 500px;
+  position: relative;
+}
+.card {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: all 1s ease-in-out;
+
+}
+.card:hover {
+
+  transform: rotateX(-540deg); 
+   
+
+}
+.card .side {
+  backface-visibility: hidden;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+}
+.card .back {
+  color: white;
+  transform: rotateX(-180deg);
+  background: black;
+        transform-origin: 0 -0.1%;
+  color:green;
+    font-weight: bold;
+
+/*la imagen se va mover para abajo entonces hay que bajar la pagina para ver la parte de atras*/
+}
